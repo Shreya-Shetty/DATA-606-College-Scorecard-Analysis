@@ -1,1 +1,2 @@
-# DATA-606-College-Scorecard-Analysis
+# DATA-606: Capstone Project
+College Scorecard Analysis
